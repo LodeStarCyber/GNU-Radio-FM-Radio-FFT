@@ -8,6 +8,9 @@ a simple FM radio receiver single channel FFT analyzer that I am using as my ice
 
 
 
+
+
+
 ------FFT GUI-------
 <img width="870" height="514" alt="image" src="https://github.com/user-attachments/assets/6f102f00-4b26-43db-9282-e07b56df3b8e" />
 
